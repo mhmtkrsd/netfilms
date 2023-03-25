@@ -1,4 +1,3 @@
-
 import styles from "./styles.module.css";
 
 function Loading() {
@@ -9,4 +8,4 @@ function Loading() {
   );
 }
 
-export { Loading };
+export default Loading;
